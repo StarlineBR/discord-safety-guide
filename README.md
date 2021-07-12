@@ -26,14 +26,14 @@
 
 ---
 ### 📜 Rewards fake:
-**Servidores de  rewards fake(sorteio falsos) - que promete prêmios de forma "fácil" e realizam golpes:** 
+**Servidores de  rewards fake/sorteio falsos - que promete prêmios de forma "fácil" e realizam golpes:** 
 - Tomem cuidado com servidores de sorteios falsos, como por exemplo, `3 invites = 1 nitro`, tenha consciência que convidar 3 usuários para um servidor é muito fácil, ninguém é rico o suficiente pra bancar nitro para várias pessoas(a não ser que o dono do servidor seja um milionário).<br>
        
 - Muitos desses servidores usam cartão de crédito clonado, dando impressão que realmente é algo verdadeiro, tu não sabe os bastidores deles estão melhor evitar e reportar esses servidores para a equipe [**Trust and Safety**](https://dis.gd/request). O uso de cartão de crédito clonado ou CPF fake é crime.
     
 - Eles também fazem isso para farmar usuários, quando o servidor tiver muitos usuários eles vendem o servidor, isso é contra a [guidelines](https://dis.gd/guidelines) do Discord.
     
-- Eles enganam usuários, rouba o dinheiro dos usuários(Scams), usa a grana para comprar o nitro dos usuários que estão nesses servidores dando a entender que realmente eles estão dando ou comprando o nitro de forma honesta, também usam contas **ALT's**(alternativas) para fingir que as recompensas são verdadeiras, o famoso canal `"é fake ou real"`, além de fornecerem "geradores milagrosos de  nitro" que é algo que não existe, e mesmo que consiga nitro por esses geradores sua conta pode ser banida permanentemente por isso.
+- Eles enganam usuários, rouba o dinheiro dos usuários/scams, usa a grana para comprar o nitro dos usuários que estão nesses servidores dando a entender que realmente eles estão dando ou comprando o nitro de forma honesta, também usam contas **ALT's**/alternativas para fingir que as recompensas são verdadeiras, o famoso canal `"é fake ou real"`, além de fornecerem "geradores milagrosos de  nitro" que é algo que não existe, e mesmo que consiga nitro por esses geradores sua conta pode ser banida permanentemente por isso.
     
 > fujam desses servidores, denunciem e não contribuem com o crime, pois se você incentivar ou contribuir com o crime você também é considerado criminoso.
     
