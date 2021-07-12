@@ -1,4 +1,4 @@
-# Discord security guide
+# Discord safety guide
 ### **Betterdiscord da ban?**
 **__O uso do betterdiscord é contra [ToS](https://dis.gd/terms) do Discord:__**
 
