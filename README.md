@@ -1,6 +1,6 @@
 # Discord security guide
 ### **Betterdiscord da ban?**
-**__O uso do betterdiscord é contra ToS do Discord:__**
+**__O uso do betterdiscord é contra [ToS](https://dis.gd/terms) do Discord:__**
 
 ●  É um aplicativo de terceiro que modifica o cliente (app) do Discord isso é contra ToS da plataforma, isso também é contra ToS na maioria dos apps.<br>
 ●  Há script/plugins que é considerado como macros pelo Discord e também esses script/plugins podem ter o agravante de serem maliciosos.<br>
