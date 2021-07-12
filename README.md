@@ -51,7 +51,7 @@
 - Automatizar contas de usuário normais (geralmente chamadas de "auto-bots") fora do OAuth2/bot API **é proibido e pode resultar no encerramento da conta**, se for encontrado.
 
 **__Leia o artigo abaixo referente aos Selfbots:__**<br>
-:link:┃ Sobre selfbot - <https://support.discord.com/hc/pt-br/articles/115002192352>
+:link:┃ <https://support.discord.com/hc/pt-br/articles/115002192352>
 
 > Terms of Service - <https://dis.gd/terms> 
 > Community Guidelines - <https://dis.gd/guidelines>
