@@ -33,9 +33,9 @@
     
 - Eles também fazem isso para farmar usuários, quando o servidor tiver muitos usuários eles vendem o servidor, isso é contra a [guidelines](https://dis.gd/guidelines) do Discord.
     
-- Eles enganam usuários, rouba o dinheiro dos usuários(Scams), usa a grana para comprar o nitro dos usuários que estão nesses servidores dando a entender que realmente eles estão dando ou comprando o nitro de forma honesta, também usam contas **ALT's**(alternativas) para fingir que as recompensas são verdadeiras, o famoso canal `"é fake ou real"`, além de fornecerem "geradores milagrosos de  nitro" que é algo que não existe, e mesmo que consiga nitro por esses geradores sua conta pode ser banida permanentemente por isso.
+- Eles enganam usuários, rouba o dinheiro dos usuários (Scams), usa a grana para comprar o nitro dos usuários que estão nesses servidores dando a entender que realmente eles estão dando ou comprando o nitro de forma honesta, também usam contas **ALT's** (alternativas) para fingir que as recompensas são verdadeiras, o famoso canal `"é fake ou real"`, além de fornecerem "geradores milagrosos de  nitro" que é algo que não existe, e mesmo que consiga nitro por esses geradores sua conta pode ser banida permanentemente por isso.
     
-> fujam desses servidores, denunciem e não contribuem com o crime, pois se você incentivar ou contribuir com o crime você também é considerado criminoso.
+> Fujam desses servidores, denunciem e não contribuem com o crime, pois se você incentivar ou contribuir com o crime você também é considerado criminoso.
     
 > **Veja esse vídeo para mais detalhes:**<br>
 > :link:┃ <https://youtu.be/VpUspYmrT0s>
