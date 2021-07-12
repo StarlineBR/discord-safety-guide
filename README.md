@@ -8,6 +8,6 @@
 **__Confira as respostas de alguns posts no twitter em que o próprio Discord respondeu:__**<br>
 :link: [twitter.com/discord/status/908000828690182145](https://twitter.com/discord/status/908000828690182145)<br>
 :link: [twitter.com/discord/status/1258013482265567233](https://twitter.com/discord/status/1258013482265567233)<br>
-OBS: O Discord ainda não tem sistema automático que detecta o uso betterdiscord, os banimentos são feitos através de denúncias feitas pela comunidade. As denúncias são enviadas para a equipe **Trust and Safety** em https://dis.gd/request ou via email `abuse@discordapp.com`
+OBS: O Discord não implementou um sistema automático que detecta o uso betterdiscord, os banimentos são feitos através de denúncias feitas pela comunidade. As denúncias são enviadas para a equipe **Trust and Safety** em https://dis.gd/request ou via email `abuse@discordapp.com`
 > Terms of Service - <https://dis.gd/terms>
 > Community Guidelines - <https://dis.gd/guidelines>
