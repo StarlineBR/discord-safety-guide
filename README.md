@@ -18,14 +18,14 @@
 :link:┃ [discord.com/safety/360044104071](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)
 
 ---
-### 📜 HCps:
+### 📜 **HCps:**
 > Resumo: Ocasionalmente, ao modificar uma comunidade, você encontrará um indivíduo que se recusa a obedecer às regras de qualquer forma. Eles simplesmente não parecem ajudar, mas quebram as regras repetidamente, assediam outros usuários ou evitam proibições criando novas contas para continuar seu mau comportamento. Neste artigo, revisaremos como lidar com usuários que constantemente causam problemas ou evitam proibições, e as etapas ativas que você pode realizar para impedir que isso aconteça.
 
-**__leia o artigo abaixo que explica de forma detalhada o que é HCPs:__**<br>
+**__Leia o artigo abaixo que explica de forma detalhada o que é HCPs:__**<br>
 :link:┃ [discord.com/moderation/360060487093-443](https://discord.com/moderation/360060487093-443)
 
 ---
-### 📜 Rewards fake:
+### 📜 **Rewards fake:**
 **Servidores de  rewards fake/sorteio falsos - que promete prêmios de forma "fácil" e realizam golpes:** 
 - Tomem cuidado com servidores de sorteios falsos, como por exemplo, `3 invites = 1 nitro`, tenha consciência que convidar 3 usuários para um servidor é muito fácil, ninguém é rico o suficiente pra bancar nitro para várias pessoas(a não ser que o dono do servidor seja um milionário).<br>
        
@@ -35,7 +35,23 @@
     
 - Eles enganam usuários, rouba o dinheiro dos usuários/scams, usa a grana para comprar o nitro dos usuários que estão nesses servidores dando a entender que realmente eles estão dando ou comprando o nitro de forma honesta, também usam contas **ALT's**/alternativas para fingir que as recompensas são verdadeiras, o famoso canal `"é fake ou real"`, além de fornecerem "geradores milagrosos de  nitro" que é algo que não existe, e mesmo que consiga nitro por esses geradores sua conta pode ser banida permanentemente por isso.
     
-> fujam desses servidores, denunciem e não contribuem com o crime, pois se você incentivar ou contribuir com o crime você também é considerado criminoso.
+> Fujam desses servidores, denunciem e não contribuem com o crime, pois se você incentivar ou contribuir com o crime você também é considerado criminoso.
     
 > **Veja esse vídeo para mais detalhes:**<br>
 > :link:┃ <https://youtu.be/VpUspYmrT0s>
+
+---
+### 📜 **Uso de Selfbot:**
+- A API do Discord fornece um tipo separado de conta de usuário dedicada à automação, chamada conta bot. 
+
+- As contas de bot podem ser criadas através da página de [**Aplicativos**](https://discord.com/developers/applications) e autenticadas usando um token (em vez de um nome de usuário e senha). 
+
+- Diferente do fluxo normal do OAuth2, as contas de bot têm acesso total a todas as rotas da API sem usar tokens de portador e podem se conectar ao Real Time Gateway. 
+
+- Automatizar contas de usuário normais (geralmente chamadas de "auto-bots") fora do OAuth2/bot API **é proibido e pode resultar no encerramento da conta**, se for encontrado.
+
+**__Leia o artigo abaixo referente aos Selfbots:__**<br>
+:link:┃ Sobre selfbot - <https://support.discord.com/hc/pt-br/articles/115002192352>
+
+> Terms of Service - <https://dis.gd/terms> 
+> Community Guidelines - <https://dis.gd/guidelines>
