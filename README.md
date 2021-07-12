@@ -16,3 +16,9 @@
 ---
 ### 📑 **__Dicas contra SPAM e HACKERS:__**
 :link:┃ [discord.com/safety/360044104071](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)
+
+---
+### 📑 HCps:
+**__leia o artigo abaixo que explica de forma detalhada o que é HCPs:__**
+> Resumo: Ocasionalmente, ao modificar uma comunidade, você encontrará um indivíduo que se recusa a obedecer às regras de qualquer forma. Eles simplesmente não parecem ajudar, mas quebram as regras repetidamente, assediam outros usuários ou evitam proibições criando novas contas para continuar seu mau comportamento. Neste artigo, revisaremos como lidar com usuários que constantemente causam problemas ou evitam proibições, e as etapas ativas que você pode realizar para impedir que isso aconteça.<br>
+:link:┃ https://is.gd/uHCPs
