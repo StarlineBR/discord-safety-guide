@@ -3,8 +3,8 @@
 **__O uso do betterdiscord é contra [ToS](https://dis.gd/terms) do Discord:__**
 
 ●  É um aplicativo de terceiro que modifica o cliente (app) do Discord isso é contra ToS da plataforma, também é contra ToS na maioria dos apps.<br>
-●  Há script/plugins que configura-se na categoria macro, também esses script/plugins podem ter o agravante de serem maliciosos.<br>
-● Alguns script/plugin abusa da API do Discord e além de abusar o mesmo adiciona vantagens cujo as quais no app original do Discord não iria conseguir fazer, como por exemplo a visualização de canais que você não tem permissão de ver, visualização de mensagens apagadas, dentre outras.<br><br>
+●  Há script/plugins que configura-se na categoria macro e também podem ser maliciosos.<br>
+● Alguns script/plugin abusa da API do Discord e além de abusar os mesmos adiciona vantagens cujo as quais no app original do Discord não iria conseguir fazer, como por exemplo a visualização de canais que você não tem permissão de ver, visualização de mensagens apagadas, dentre outras.<br><br>
 **__Confira as respostas de alguns posts no twitter em que o próprio Discord respondeu:__**<br>
 :link: [twitter.com/discord/status/908000828690182145](https://twitter.com/discord/status/908000828690182145)<br>
 :link: [twitter.com/discord/status/1258013482265567233](https://twitter.com/discord/status/1258013482265567233)<br>
