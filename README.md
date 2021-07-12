@@ -1,5 +1,5 @@
 # Discord safety guide
-### 📑 **Betterdiscord da ban?**
+### 📜 **Betterdiscord da ban?**
 **__O uso do betterdiscord é contra [ToS](https://dis.gd/terms) do Discord:__**
 
 ●  É um aplicativo de terceiro que modifica o cliente (app) do Discord isso é contra ToS da plataforma, também é contra ToS na maioria dos apps.<br>
@@ -14,11 +14,11 @@
 > Terms of Service - <https://dis.gd/terms>
 > Community Guidelines - <https://dis.gd/guidelines>
 ---
-### 📑 **__Dicas contra SPAM e HACKERS:__**
+### 📜 **__Dicas contra SPAM e HACKERS:__**
 :link:┃ [discord.com/safety/360044104071](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)
 
 ---
-### 📑 HCps:
+### 📜 HCps:
 > Resumo: Ocasionalmente, ao modificar uma comunidade, você encontrará um indivíduo que se recusa a obedecer às regras de qualquer forma. Eles simplesmente não parecem ajudar, mas quebram as regras repetidamente, assediam outros usuários ou evitam proibições criando novas contas para continuar seu mau comportamento. Neste artigo, revisaremos como lidar com usuários que constantemente causam problemas ou evitam proibições, e as etapas ativas que você pode realizar para impedir que isso aconteça.
 
 **__leia o artigo abaixo que explica de forma detalhada o que é HCPs:__**<br>
