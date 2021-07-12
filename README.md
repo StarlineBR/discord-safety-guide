@@ -27,9 +27,9 @@
 ---
 ### 📜 Rewards fake:
 **Servidores de  rewards fake ( sorteio falsos ) - que promete prêmios de forma "fácil" e realizam golpes:** 
-- Tomem cuidado com servidores de sorteios falsos, como por exemplo, `3 invites = 1 nitro`, tenha consciência que convidar 3 usuários para um servidor é muito fácil, ninguém é rico o suficiente pra bancar nitro para várias pessoas ( a não ser que o dono do servidor seja um milionário).<br>
+- Tomem cuidado com servidores de sorteios falsos, como por exemplo, `3 invites = 1 nitro`, tenha consciência que convidar 3 usuários para um servidor é muito fácil, ninguém é rico o suficiente pra bancar nitro para várias pessoas(a não ser que o dono do servidor seja um milionário).<br>
        
-- Muitos desses servidores usam Cartão de crédito clonado, dando impressão que realmente é algo verdadeiro, tu não sabe os bastidores deles estão melhor evitar e reportar esses servidores para a equipe [**Trust and Safety**](https://dis.gd/request). O uso de cartão de crédito clonado ou CPF fake é crime.
+- Muitos desses servidores usam cartão de crédito clonado, dando impressão que realmente é algo verdadeiro, tu não sabe os bastidores deles estão melhor evitar e reportar esses servidores para a equipe [**Trust and Safety**](https://dis.gd/request). O uso de cartão de crédito clonado ou CPF fake é crime.
     
 - Eles também fazem isso para farmar usuários, quando o servidor tiver muitos usuários eles vendem o servidor, isso é contra a [guidelines](https://dis.gd/guidelines) do Discord.
     
