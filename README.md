@@ -10,7 +10,7 @@
 :link: [twitter.com/discord/status/1258013482265567233](https://twitter.com/discord/status/1258013482265567233)<br>
 :link: [twitter.com/discord/status/1360396308461334530](https://twitter.com/discord/status/1360396308461334530)<br>
 
-➥ "O Discord ainda não tem sistema automático que detecta o betterdiscord, os banimentos são feitos através de denúncias realizadas pela comunidade. As denúncias são enviadas para a equipe **Trust and Safety** em https://dis.gd/request ou via email `abuse@discordapp.com`"<br>
+➥ "O Discord ainda não tem sistema automático que detecta o uso do betterdiscord, os banimentos são feitos através de denúncias realizadas pela comunidade. As denúncias são enviadas para a equipe **Trust and Safety** em https://dis.gd/request ou via email `abuse@discordapp.com`"<br>
 
 > **__DIREITO DE USAR O SERVIÇO__** - <https://dis.gd/terms><br>
 > (ii) copiar, adaptar, modificar, elaborar trabalhos derivados, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir por qualquer meio, tentar descobrir parte do código-fonte, fazer engenharia reversa, descompilar, desmontar ou explorar de alguma forma o Serviço ou parte dele, exceto de alguma forma expressamente permitida por estes Termos;<br>
