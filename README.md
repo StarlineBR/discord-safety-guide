@@ -109,3 +109,6 @@ Incluindo uma www em sua URL costumava ser um padrão para todos os sites na Int
 
 
 Os três W são uma parte opcional de uma URL que identifica um site como parte da World Wide Web. Se você o utiliza é em sua maioria por preferência pessoal.<br>
+
+### **Golpes phishing/scam**
+
