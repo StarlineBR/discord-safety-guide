@@ -66,7 +66,7 @@
 > Terms of Service - <https://dis.gd/terms> 
 > Community Guidelines - <https://dis.gd/guidelines>
 ---
-### 📜 **Anatomia básica da URL & golpes phishing/scam**
+### 📜 **Anatomia básica da URL & Phishing/scam**
 **__O que é uma URL (Uniform Resource Locator)__**<br>
 Uma URL, ou localizador uniforme de recursos, é um endereço que ajuda seu navegador a localizar uma página da web, foto, arquivo, ou outro recurso específico.<br>
 
@@ -110,5 +110,22 @@ Incluindo uma www em sua URL costumava ser um padrão para todos os sites na Int
 
 Os três W são uma parte opcional de uma URL que identifica um site como parte da World Wide Web. Se você o utiliza é em sua maioria por preferência pessoal.<br>
 
-### **Golpes phishing/scam**
+### **Phishing/scam**
 
+- **Desconfie de links ou sites**<br>
+Sempre é bom verificar o site e o link o qual acessa, pois muitos deles podem ser phishimg/scam e fazer com que informe dados ao criminoso, use vários procedimentos de verificação antes de acessar algo.<br>
+
+- **Desconfie de anúncios sensacionalista**<br>
+Muitos desses anúncios são para manipular a mente humana com a tendência de pensar pelo lado emocional do que racional, desconfiem desses tipos de anúncios e sempre verifique se o anúncio é verdadeiro indo no site oficial da empresa do anúncio.<br>
+
+- **Desconfiem dos links/arquivos que os amigos mandam**<br>
+Seus amigos também podem ser infectados e espalhar vírus pra outras pessoas.<br>
+
+- **Preste atenção na anatomia da URL**<br>
+Sempre verifique a URL que você acessa, há varias ferramentas de análise na web para verificar se a URL é segura ou não, vou citar algumas:<br>
+✦ [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd)<br>
+✦ [urlscan.io](https://urlscan.io)<br>
+✦ [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)<br>
+✦ [VirusTotal](https://www.virustotal.com/gui/home/url)<br>
+✦ [crosslink](https://panleyent.com/crosslink/)<br>
+✦ [Talos](https://talosintelligence.com/)<br>
