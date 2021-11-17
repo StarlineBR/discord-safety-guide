@@ -2,17 +2,27 @@
 ### 📜 **Betterdiscord da ban?**
 **__O uso do betterdiscord é contra [ToS](https://dis.gd/terms) do Discord:__**
 
-- É um aplicativo de terceiro que modifica o cliente (app) do Discord isso é contra ToS da plataforma, também é contra ToS na maioria dos apps.<br>
-- Há script/plugins que configura-se na categoria macro e também podem ser maliciosos.<br>
-- Alguns script/plugin abusa da API do Discord e além de abusar os mesmos adiciona vantagens cujo as quais no app original do Discord não iria conseguir fazer, como por exemplo a visualização de canais que você não tem permissão de ver, visualização de mensagens apagadas, dentre outras.<br><br>
-**__Confira as respostas de alguns posts no twitter em que o próprio Discord respondeu:__**<br>
-:link: ┃ [twitter.com/discord/status/908000828690182145](https://twitter.com/discord/status/908000828690182145)<br>
-:link: ┃ [twitter.com/discord/status/1258013482265567233](https://twitter.com/discord/status/1258013482265567233)<br>
+- É um aplicativo de terceiro que modifica o Discord isso é contra ToS da plataforma.<br>
+- Faz o uso de script/plugins sendo considerado como macros e também os mesmos podem ter o agravante de serem maliciosos.<br>
+- Alguns script/plugin abusa da API do Discord e além de abusar o mesmo adiciona vantagens cujas quais no app original do Discord não iria conseguir fazer, como por exemplo a visualização de canais que você não tem permissão de ver dentre outras.<br>
+ **__Confira as respostas de alguns posts do twitter em que o próprio Discord respondeu:__**<br>
+:link: [twitter.com/discord/status/908000828690182145](https://twitter.com/discord/status/908000828690182145)<br>
+:link: [twitter.com/discord/status/1258013482265567233](https://twitter.com/discord/status/1258013482265567233)<br>
+:link: [twitter.com/discord/status/1360396308461334530](https://twitter.com/discord/status/1360396308461334530)<br>
 
-> O Discord não implementou um sistema automático que detecta o uso betterdiscord, os banimentos são feitos através de denúncias feitas pela comunidade. As denúncias são enviadas para a equipe **Trust and Safety** em https://dis.gd/request ou via email `abuse@discordapp.com`
+➥ "O Discord ainda não tem sistema automático que detecta o betterdiscord, os banimentos são feitos através de denúncias realizadas pela comunidade. As denúncias são enviadas para a equipe **Trust and Safety** em https://dis.gd/request ou via email `abuse@discordapp.com`"<br>
 
-> Terms of Service - <https://dis.gd/terms>
-> Community Guidelines - <https://dis.gd/guidelines>
+> **__DIREITO DE USAR O SERVIÇO__** - <https://dis.gd/terms><br>
+> (ii) copiar, adaptar, modificar, elaborar trabalhos derivados, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir por qualquer meio, tentar descobrir parte do código-fonte, fazer engenharia reversa, descompilar, desmontar ou explorar de alguma forma o Serviço ou parte dele, exceto de alguma forma expressamente permitida por estes Termos;<br>
+> Terms of Service - <https://dis.gd/terms><br>
+> Community Guidelines - <https://dis.gd/guidelines><br>
+
+ **__Por que não recomendo o uso do betterdiscord?__**<br>
+> Ao usar um client com modificações de terceiros você esta violando o [ToS](https://dis.gd/terms) da plataforma e correndo risco de diversos fatores tais como:<br>
+- Comprometendo sua segurança digital ao usar um client com modificação de terceiro ainda mais em época que os golpes estão cada vez mais sofisticados com milhões de dados vazados e ferramentas para golpistas usarem como bem entender, muitos golpes podem ser usado pra atacar não diretamente você, sim membros de sua família, amigos etc.<br>
+- Comprometendo sua reputação/conduta, se a pessoa que não consegue seguir um simples termo de serviço de uma plataforma. Automaticamente ela é induzida a fazer coisas erradas, e ter uma má índole.<br>
+- Comprometendo a segurança do seu app, nenhum app é 100% seguro, mas fazendo o uso de um client modificado você estará abrindo brechas ou oportunidades em relação ao seus dados até mesmo os que estão no computador já que o app está instalado em sua máquina, apps podem ter vulnerabilidade e se o client modificado tiver alguma vulnerabilidade a **Discord Inc.** não vai poder arcar com os tais prejuízos. **"Informação é conhecimento, e conhecimento é poder."**<br>
+> **"Muitos usam o betterdiscord por hábito e certeza da impunidade do que por necessidade."**
 ---
 ### 📜 **__Dicas contra SPAM e HACKERS:__**
 :link:┃ [discord.com/safety/360044104071](https://discord.com/safety/360044104071-Tips-against-spam-and-hacking)
