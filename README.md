@@ -65,3 +65,47 @@
 
 > Terms of Service - <https://dis.gd/terms> 
 > Community Guidelines - <https://dis.gd/guidelines>
+---
+### 📜 **Anatomia básica da URL & golpes phishing/scam**
+**__O que é uma URL (Uniform Resource Locator)__**<br>
+Uma URL, ou localizador uniforme de recursos, é um endereço que ajuda seu navegador a localizar uma página da web, foto, arquivo, ou outro recurso específico.<br>
+
+Seu navegador leva o endereço, traduz o nome do domínio para o endereço IP do servidor e o resto da URL mostra o caminho para o arquivo específico naquele servidor.<br>
+
+Uma URL leva a um arquivo ou página específica, enquanto um nome de domínio é o “endereço” geral para todo o website ou servidor.<br>
+
+**__Exemplo de uma URL__**<br>
+Para ver um exemplo de URL, tudo o que você precisa fazer é olhar o campo de endereço web no topo do seu navegador, logo abaixo de suas abas.
+
+![](https://i.imgur.com/67Y7S9V.png)
+
+O campo mostra a URL para esta página:`https://staralienbot.com/termos`. (Seu navegador pode esconder o HTTPS até que você faça duplo clique no campo).
+
+Observe que quando você clica em uma aba diferente, ela mostra uma URL diferente que se refere à página ou arquivo que você está visualizando.
+
+**__O Protocolo HTTPS/HTTP__**<br>
+A primeira parte de uma URL identifica qual protocolo o servidor e a página da Web utilizam para transferir dados para seu computador.<br>
+
+<img src="https://i.imgur.com/8QJnF5b.png" width="512" height="150">
+
+Dependendo do seu navegador, você pode ter que clicar duas vezes no lado esquerdo da URL para ver esta parte.<br>
+
+HTTP significa Hypertext Transfer Protocol e é a forma básica e não criptografada de transferir dados pela Internet. HTTPS significa Hypertext Transfer Protocol Secure (Protocolo de Transferência de Hipertexto Seguro) e é um protocolo mais seguro e criptografado para transferir dados. O Google Chrome mostrará que um site usa HTTPS com um símbolo de cadeado, simbolizando um site seguro.<br>
+
+Se um site utiliza HTTP, ele mostra uma marca de atenção que você pode expandir e que o adverte contra o envio de qualquer informação sensível ao site.<br>
+
+**__O Nome de Domínio & DNS__**<br>
+O nome de domínio é o que ajuda o navegador a encontrar seu servidor web em primeiro lugar, usando o DNS (Domain Name System).<br>
+
+<img src="https://i.imgur.com/zhUNnNB.png" width="512" height="150">
+
+**__O Caminho__**<br>
+O caminho é qualquer parte da URL que vem depois do nome de domínio, antes de um ponto de interrogação ou # que acrescenta informações extras a uma URL (mais sobre isso abaixo).
+
+<img src="https://i.imgur.com/aPr1obd.png" width="512" height="150">
+
+**__WWW ou não WWW__**<br>
+Incluindo uma www em sua URL costumava ser um padrão para todos os sites na Internet.<br>
+
+
+Os três W são uma parte opcional de uma URL que identifica um site como parte da World Wide Web. Se você o utiliza é em sua maioria por preferência pessoal.<br>
